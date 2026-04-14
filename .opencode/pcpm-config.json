@@ -5,7 +5,7 @@
     "onFailure": "/Users/jeremy/dev/A2A-SIN-SMS/.opencode/hooks/pcpm-after-run.sh"
   },
   "pcpm": {
-    "brainRepoPath": "/Users/jeremy/dev/A2A-SIN-SMS",
+    "brainRepoPath": "/Users/jeremy/dev/global-brain",
     "projectId": "A2A-SIN-SMS",
     "goalId": "default-goal",
     "goalDescription": "Continue development",
