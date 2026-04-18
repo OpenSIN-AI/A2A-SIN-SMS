@@ -17,6 +17,20 @@ Thank you for contributing to OpenSIN-AI!
 - Write tests for new features
 - JSDoc on exported functions
 
+## Boundary Rules
+
+Before adding a feature or top-level claim, answer:
+
+1. Is this specifically SMS integration work?
+2. Does another OpenSIN repo already own the canonical source of truth?
+
+### Put it in `A2A-SIN-SMS` if:
+- it improves SMS integration
+- it improves this repo's A2A agent behavior
+
+### Do NOT put it in `A2A-SIN-SMS` if:
+- it claims broader messaging, product, ops, or docs ownership
+
 ## License
 
 MIT — See [LICENSE](LICENSE).
